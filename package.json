@@ -9,7 +9,6 @@
     "preview": "vite preview",
     "serve": "NODE_ENV=development vue-cli-service serve",
     "build": "NODE_ENV=production vue-cli-service build"
-  }
 }
   },
   "dependencies": {
